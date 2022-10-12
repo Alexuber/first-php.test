@@ -6,7 +6,7 @@ require('partials/header.php');
 if (isLogin()) {
   $user = getCurrentUser();
 ?>
-  <h2>Henmbnmllo, <?php echo $user['username']; ?>!</h2>
+  <h2>Henmbnml7777lo, <?php echo $user['username']; ?>!</h2>
 
 
 
